@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1704020904 source:c:\users\yara\desktop\data structer\labs\day2\arrayday2\main.cpp
+	<iostream>
+	<string.h>
+

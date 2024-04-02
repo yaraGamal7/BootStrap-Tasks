@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703942043 source:c:\users\yara\desktop\linkedday1\main.cpp
+	<iostream>
+	<string.h>
+
